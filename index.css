@@ -177,7 +177,7 @@ body::before {
         font-size: 4rem;
     }
     .date {
-        font-size: 4rem !important; /* Increased from 4rem to 5rem */
+        font-size: 5rem !important; /* Increased from 4rem to 5rem */
     }
 }
 
@@ -189,7 +189,7 @@ body::before {
         font-size: 3.5rem;
     }
     .date {
-        font-size: 3rem !important; /* Increased from 3.5rem to 4.5rem */
+        font-size: 4rem !important; /* Increased from 3.5rem to 4.5rem */
         border-top-width: 2px; /* More visible border on small screens */
     }
 }
