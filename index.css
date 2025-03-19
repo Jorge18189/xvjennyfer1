@@ -177,7 +177,7 @@ body::before {
         font-size: 4rem;
     }
     .date {
-        font-size: 3rem !important; /* Increased from 4rem to 5rem */
+        font-size: 4rem !important; /* Increased from 4rem to 5rem */
     }
 }
 
